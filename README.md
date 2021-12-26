@@ -39,11 +39,11 @@ This first plot shows how close the estimations are when using the Canonical bas
 
 ![](https://github.com/roadelou/ELSA_Canonical_Projection/raw/main/img/absolute_error_1.png "Absolute Distance Between Canonical and Random Hamming")
 
-This second plot shows the same distance, but this time as a percentage of the estimated value. This help tell whether the distance between the two estimators is meaningful or not.
+This second plot shows the same distance, but this time as a percentage of the estimated value. This help tell how meaningful the distance between the two estimators really is.
 
 ![](https://github.com/roadelou/ELSA_Canonical_Projection/raw/main/img/relative_error_1.png "Relative Distance Between Canonical and Random Hamming")
 
-The error in the next plots are comparing the two estimators with the reference value of the dot product in order to tell how far-off they really are, and how much of an approximation we are making when using the Hamming estimation for the angle. The third suplot shows how much (or little in this case) error is introduced by the random projection if don't use the Hamming estimation.
+The error in the next plots are comparing the two estimators with the reference value of the dot product in order to tell how far-off they really are, and how much of an approximation we are making when using the Hamming estimation for the angle. The third suplot shows how much (or little in this case) error is introduced by the random projection if we don't use the Hamming estimation but instead the ideal computation.
 
 ![](https://github.com/roadelou/ELSA_Canonical_Projection/raw/main/img/absolute_error_2.png "Absolute Error of Canonical and Random Estimators")
 
@@ -57,7 +57,7 @@ Plotting with a smaller nummber of tries yields a more readable graph for the pe
 
 Finally, we show for 20 sample vector pairs how the Canonical and Random estimations of the dot product compare against the real value.
 
-![](https://github.com/roadelou/ELSA_Canonical_Projection/raw/main/img/sample.png "Sample of Error of Canonical and Random Estimators")
+![](https://github.com/roadelou/ELSA_Canonical_Projection/raw/main/img/samples.png "Sample of Error of Canonical and Random Estimators")
 
 # QUANTITATIVE RESULTS
 
