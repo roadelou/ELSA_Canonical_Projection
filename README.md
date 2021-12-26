@@ -135,6 +135,6 @@ Field | Value
 :email: Contacts | 
 :date: Creation Date | 2021-12-26
 :bulb: Language | Markdown Document
-:page: Repository | git@github.com:roadelou/ELSA\_Canonical\_Projection.git
+:page_with_curl: Repository | git@github.com:roadelou/ELSA\_Canonical\_Projection.git
 
 ### EOF
